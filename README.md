@@ -7,4 +7,7 @@
 Fix your id Open ai
 `node index.js `
 
+--- 
+Full flemme
+
 
